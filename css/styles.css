@@ -8,6 +8,16 @@ h2 {
   text-align: center;
 }
 
+img {
+  float:left;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+
 p {
   font-family: sans-serif;
 }
@@ -25,6 +35,11 @@ p.author {
 
 .important {
   color: red;
+}
+
+.column {
+  width: 300px;
+  float: left;
 }
 
 ul {
